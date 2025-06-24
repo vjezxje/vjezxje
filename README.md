@@ -1,3 +1,5 @@
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=vjezxje&label=Profile%20views&color=0e75b6&style=flat" alt="vjezxje" /> </p>
+
 <h2 align="center">Hi 👋, I'm Hoang Viet</h2>
 <p align="center">
   <h3 align="center"> Embedded Software Engineer from Vietnam </h3>
